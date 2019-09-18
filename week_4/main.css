@@ -1,0 +1,14 @@
+.alert-primary {
+    color: #3b10c0;
+    background-color: #ccd0ff;
+    border-color: #bdb8ff;
+}
+
+.navbar-light .navbar-toggler {
+    color: #3b10c0;
+    border-color: #bdb8ff;
+}
+
+.text-muted {
+    color: cornflowerblue !important;
+}
